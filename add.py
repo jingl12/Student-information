@@ -10,7 +10,6 @@ class Student():
         self.major=major
 
 def inp():
-    ls=[]
     print('-----input student massage!-----')
     Id=input('学生ID:')
     name=input('姓名:')
